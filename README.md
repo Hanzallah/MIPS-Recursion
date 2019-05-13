@@ -1,2 +1,2 @@
 # MIPS-Recursion
-Performing recursion in MIPS Assembly.
+Performing recursion and adding functionality to a MIPS Linked List template in MIPS Assembly.
